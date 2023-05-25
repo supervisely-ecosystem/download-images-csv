@@ -1,7 +1,7 @@
 <div align="center" markdown>
 <img src="PLACEHOLDER"/>
 
-# "Download image links in CSV from the Supervisely project or dataset
+# Download image links in CSV
 
 <p align="center">
   <a href="#Overview">Overview</a> •
