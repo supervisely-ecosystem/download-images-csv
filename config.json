@@ -1,0 +1,19 @@
+{
+  "name": "Download image links in CSV",
+  "type": "app",
+  "categories": ["export", "images"],
+  "description": "Download CSV file with download links for images",
+  "docker_image": "supervisely/base-py-sdk:6.72.15",
+  "instance_version": "6.5.1",
+  "main_script": "src/main.py",
+  "task_location": "workspace_tasks",
+  "icon": "placeholder",
+  "icon_cover": true,
+  "headless": true,
+  "icon_background": "#FFFFFF",
+  "context_menu": {
+    "target": ["images_project", "images_dataset"],
+    "context_root": "Download as"
+  },
+  "poster": "placeholder"
+}
