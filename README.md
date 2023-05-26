@@ -1,5 +1,5 @@
 <div align="center" markdown>
-<img src="PLACEHOLDER"/>
+<img src="https://github.com/supervisely-ecosystem/download-images-csv/assets/119248312/f049c3a5-5e00-4436-8385-9c6e2d4bf3cf"/>
 
 # Download image links in CSV
 
