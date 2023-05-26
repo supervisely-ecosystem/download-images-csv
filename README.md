@@ -27,8 +27,8 @@ The file will contain the following columns: `Project ID`, `Project Name`, `Data
 
 **Step 2**: Select a project or a dataset you want to download image links from and open the context menu -> `Run App` -> `Download via app` -> `"Download image links in CSV`.<br>
 
-<br>screenshot with context menu<br>
+<br><img src="https://github.com/supervisely-ecosystem/download-images-csv/assets/115161827/e1e20670-65e9-4f14-9351-86fb0e3b6606"/><br>
 
 **Step 3**: Result archive will be available for download in the `Tasks` list (image below) or from `Team Files` (path format is the following `Team Files`->`tmp`->`supervisely`->`export`->`"Download image links in CSV`->`<projectName>.csv`)<br>
 
-<br>screenshot with tasks window and result archive<br>
+<br><img src="https://github.com/supervisely-ecosystem/download-images-csv/assets/115161827/9cddf779-5e19-48db-8d51-00737655def5"/><br>
