@@ -7,7 +7,7 @@
   "instance_version": "6.5.1",
   "main_script": "src/main.py",
   "task_location": "workspace_tasks",
-  "icon": "placeholder",
+  "icon": "https://github.com/supervisely-ecosystem/download-images-csv/assets/119248312/ede71a30-bfe5-436f-b7d2-ba0b1ea479d4",
   "icon_cover": true,
   "headless": true,
   "icon_background": "#FFFFFF",
@@ -15,5 +15,5 @@
     "target": ["images_project", "images_dataset"],
     "context_root": "Download as"
   },
-  "poster": "placeholder"
+  "poster": "https://github.com/supervisely-ecosystem/download-images-csv/assets/119248312/f049c3a5-5e00-4436-8385-9c6e2d4bf3cf"
 }
