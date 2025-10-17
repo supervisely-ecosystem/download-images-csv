@@ -8,7 +8,7 @@
   <a href="#How-To-Use">How To Use</a>
 </p>
 
-[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](../../../../supervisely-ecosystem/download-images-csv)
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/download-images-csv)
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/download-images-csv)
 [![views](https://app.supervise.ly/img/badges/views/supervisely-ecosystem/download-images-csv.png)](https://supervise.ly)
@@ -23,7 +23,7 @@ The file will contain the following columns: `Project ID`, `Project Name`, `Data
 
 # How To Use
 
-**Step 1**: Add app to your team from [Ecosystem](../../../../supervisely-ecosystem/download-images-csv) if it is not there<br><br>
+**Step 1**: Add app to your team from [Ecosystem](https://ecosystem.supervise.ly/apps/download-images-csv) if it is not there<br><br>
 
 **Step 2**: Select a project or a dataset you want to download image links from and open the context menu -> `Run App` -> `Download via app` -> `"Download image links in CSV`.<br>
 
