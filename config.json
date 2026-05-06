@@ -6,8 +6,8 @@
         "images"
     ],
     "description": "Download CSV file with download links for images",
-    "docker_image": "supervisely/import-export:0.0.5",
-    "instance_version": "6.5.1",
+    "docker_image": "supervisely/import-export:6.73.564",
+    "instance_version": "6.15.60",
     "main_script": "src/main.py",
     "task_location": "workspace_tasks",
     "icon": "https://github.com/supervisely-ecosystem/download-images-csv/assets/119248312/ede71a30-bfe5-436f-b7d2-ba0b1ea479d4",
